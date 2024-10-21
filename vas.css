@@ -1,0 +1,239 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+.star-right {
+    margin-left: 8px;
+}
+
+.star {
+    border-radius: 13px;
+    background-color: #378f32;
+    font-family: "Roboto";
+    font-size: 12px;
+    color: white;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-weight: bold;
+}
+
+.orange-button {
+    font-family: "Roboto";
+    font-size: 12px;
+    color: white;
+    background-image: linear-gradient(#d0b200, #a58d00);
+    height: 35px;
+    width: 100px;
+    border-width: 0px;
+    border-radius: 5px;
+    margin-right: 10px;
+}
+
+.fresh-healthy-image {
+    width: 200px;
+}
+
+.delivery-payment-image {
+    height: 45px;
+    width: 55px;
+}
+
+.delivery-payment-bg-container {
+    background-color: white;
+}
+
+.fresh-healthy-bg-container {
+    background-color: #f9fbfe;
+}
+
+.fresh-healthy-button {
+    color: #d0b200;
+    font-family: "Roboto";
+    font-size: 17px;
+}
+
+.thanking-customer-image {
+    width: 200px;
+}
+
+.fresh-healthy-paragraph {
+    font-family: "Roboto";
+    font-size: 17px;
+    color: #5a7184;
+}
+
+.fresh-healthy-heading {
+    font-family: "Roboto";
+    font-size: 25px;
+    font-weight: bold;
+    color: #183b56;
+}
+
+.thanking-customer-bg-container {
+    background-image: radial-gradient(#fff8db, #fae38c);
+}
+
+.food-munch-image {
+    width: 80px;
+}
+
+.food-munch-paragraph {
+    font-family: "Roboto";
+    font-size: 13px;
+    color: #959ead;
+    text-align: center;
+}
+
+.food-munch-heading {
+    font-family: "Roboto";
+    font-size: 15px;
+    font-weight: bold;
+    color: #959ead;
+    text-align: center;
+}
+
+.food-munch-last-bg-container {
+    background-color: #0d2436;
+}
+
+.icon-bg-color {
+    background-color: #faf7e8;
+    height: 80px;
+    width: 80px;
+    text-align: center;
+    border-radius: 40px;
+    margin: 15px;
+}
+
+
+.follow-us-heading {
+    font-family: "Roboto";
+    font-size: 25px;
+    font-weight: bold;
+    color: #183b56;
+    text-align: center;
+}
+
+
+.follow-us-bg-container {
+    background-color: white;
+}
+
+.art-gallery-link {
+    color: #b09d35;
+}
+
+.image-logos {}
+
+.art-gallery-heading {
+    font-family: "Bree Serif";
+    font-size: 30px;
+    font-style: normal;
+    font-weight: bold;
+    color: #2f82a8;
+}
+
+.dollar {
+    font-weight: bold;
+    font-size: 16px;
+    color: #52514c;
+}
+
+.green-color {
+    color: #2bc922;
+}
+
+.dollar_line {
+    text-decoration: line-through;
+    color: #7a827c;
+}
+
+.second-page-card-paragraph {
+    font-family: "Roboto";
+    font-size: 14px;
+    font-style: normal;
+    color: #5a5c5a;
+    padding: 5px;
+}
+
+.second-page-card-heading {
+    font-family: "Roboto";
+    font-size: 17px;
+    font-style: normal;
+    font-weight: bold;
+    color: #2f82a8;
+    padding: 5px;
+}
+
+.second-page-card {
+
+    background-color: white;
+
+}
+
+.second-page-bg-container {}
+
+#navitem5 {
+    font-family: "Roboto";
+    color: #5f5e61;
+}
+
+#navitem4 {
+    font-family: "Roboto";
+    color: #5f5e61;
+}
+
+#navitem3 {
+    font-family: "Roboto";
+    color: #5f5e61;
+}
+
+#navitem2 {
+    font-family: "Roboto";
+    color: #5f5e61;
+}
+
+#navitem1 {
+    font-family: "Roboto";
+    color: #5f5e61;
+}
+
+.logo-image {
+    height: 60px;
+    width: 65px;
+}
+
+.offers {
+    color: #e0b819;
+}
+
+.offers1 {
+    color: lightgreen;
+}
+
+.first-page-paragraph {
+    font-family: "Roboto";
+    font-size: 15px;
+    font-style: italic;
+    color: #ffffff;
+}
+
+.first-page-heading {
+    font-family: "Roboto";
+    font-size: 30px;
+    font-style: oblique;
+    font-weight: bold;
+    color: #e0b819;
+}
+
+.first-page-card {
+    background-color: transparent;
+    text-align: center;
+}
+
+.first-page-bg-container {
+    background-image: url("https://img.freepik.com/premium-photo/black-desk-lamp-casts-soft-glow-table-surface_1089581-12280.jpg?ga=GA1.1.567324117.1675696296");
+    background-size: cover;
+    height: 100vh;
+}
